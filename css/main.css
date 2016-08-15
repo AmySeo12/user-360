@@ -302,7 +302,7 @@ footer p {
 }	
 
 @media (max-width: 767px){
-	hr, .fondo, .sec-2 {
+	hr, .fondo, .sec-2, .icons {
 		display:none;
 	}
 
